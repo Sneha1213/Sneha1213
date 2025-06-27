@@ -79,4 +79,4 @@ I am a final-year student specializing in Artificial Intelligence and Data Scien
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg)
+![snake gif](https://github.com/Sneha1213/Sneha1213github-snake-dark.svg)
