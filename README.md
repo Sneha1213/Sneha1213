@@ -21,4 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sneha1213&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![snake gif](https://github.com/Sneha1213/Sneha1213/blob/output/github-snake-dark.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
