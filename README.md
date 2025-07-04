@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Hi, I'm Sneha Satarke Pursuing B.Tech in AI & Data Science from India <br><br>💡 Building smart systems with ML, Deep Learning, Full-Stack Dev, and Cloud<br><br>💡Hackathon enthusiast – I build fast, I build smart, I build user-first<br><br>🔭 Currently working on: AI productivity agents & automation bots <br><br>🛠️ Exploring: LangChain, Ollama, TensorRT, and Distributed ML
+💡 Hi, I'm Sneha Satarke Pursuing B.Tech in AI & Data Science from India <br><br>💡 Building smart systems with ML, Deep Learning, Full-Stack Dev, and Cloud<br><br>💡Programming Enthusiast – I build fast, I build smart, I build user-first<br><br>🔭 Currently working on: AI productivity agents & automation bots <br><br>🛠️ Exploring: LangChain, Ollama, TensorRT, and Distributed ML
 
 
 ## 🌐 Socials:
